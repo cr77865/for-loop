@@ -11,6 +11,12 @@ int main(){
 //         cout<<i<<endl;
 //     }
 
+// int n,sum=0,a[100];
+//for(int i=0;i<n;i++){
+//   sum=sum+a[i]; 
+//   cout<<sum<<endl;
+//}
+
 
 
      for(int i=1;i<8;i++)
